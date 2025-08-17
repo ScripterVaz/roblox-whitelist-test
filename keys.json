@@ -4,6 +4,11 @@
       "key": "TESTKEY123",
       "hwid": null,
       "expiry": null
+    },
+    {
+      "key": "KEY-4MH98Q66",
+      "hwid": null,
+      "expiry": null
     }
   ]
 }
